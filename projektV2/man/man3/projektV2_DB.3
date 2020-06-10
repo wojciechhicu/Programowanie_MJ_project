@@ -1,0 +1,75 @@
+.TH "projektV2.DB" 3 "Wed Jun 10 2020" "Version 1.0" "Projekt_Programowanie" \" -*- nroff -*-
+.ad l
+.nh
+.SH NAME
+projektV2.DB
+.SH SYNOPSIS
+.br
+.PP
+.SS "Public Member Functions"
+
+.in +1c
+.ti -1c
+.RI "void \fBopenConnection\fP ()"
+.br
+.RI "opening connection between client and server "
+.ti -1c
+.RI "void \fBcloseConnection\fP ()"
+.br
+.RI "closing connection between computer and server "
+.ti -1c
+.RI "MySqlConnection \fBgetConnection\fP ()"
+.br
+.RI "getting connection status from db "
+.in -1c
+.SS "Static Public Member Functions"
+
+.in +1c
+.ti -1c
+.RI "static string \fBCreateConnString\fP ()"
+.br
+.RI "return easy accessable and updateable string connection "
+.in -1c
+.SS "Public Attributes"
+
+.in +1c
+.ti -1c
+.RI "MySqlConnection \fBConnection\fP = new MySqlConnection(\fBCreateConnString\fP())"
+.br
+.in -1c
+.SH "Member Function Documentation"
+.PP 
+.SS "void projektV2\&.DB\&.closeConnection ()"
+
+.PP
+closing connection between computer and server 
+.SS "static string projektV2\&.DB\&.CreateConnString ()\fC [static]\fP"
+
+.PP
+return easy accessable and updateable string connection 
+.PP
+\fBReturns\fP
+.RS 4
+
+.RE
+.PP
+
+.SS "MySqlConnection projektV2\&.DB\&.getConnection ()"
+
+.PP
+getting connection status from db 
+.PP
+\fBReturns\fP
+.RS 4
+
+.RE
+.PP
+
+.SS "void projektV2\&.DB\&.openConnection ()"
+
+.PP
+opening connection between client and server 
+
+.SH "Author"
+.PP 
+Generated automatically by Doxygen for Projekt_Programowanie from the source code\&.

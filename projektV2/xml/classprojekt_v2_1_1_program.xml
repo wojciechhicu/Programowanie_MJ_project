@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.18">
+  <compounddef id="classprojekt_v2_1_1_program" kind="class" language="C#" prot="public">
+    <compoundname>projektV2::Program</compoundname>
+      <sectiondef kind="private-static-func">
+      <memberdef kind="function" id="classprojekt_v2_1_1_program_1a57d86a08c878f47af7b5712837a33c73" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void projektV2.Program.Main</definition>
+        <argsstring>()</argsstring>
+        <name>Main</name>
+        <briefdescription>
+<para>Główny punkt wejścia dla aplikacji. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Program.cs" line="15" column="21" bodyfile="Program.cs" bodystart="15" bodyend="20"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Program.cs" line="9" column="19" bodyfile="Program.cs" bodystart="10" bodyend="21"/>
+    <listofallmembers>
+      <member refid="classprojekt_v2_1_1_program_1a57d86a08c878f47af7b5712837a33c73" prot="private" virt="non-virtual"><scope>projektV2::Program</scope><name>Main</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

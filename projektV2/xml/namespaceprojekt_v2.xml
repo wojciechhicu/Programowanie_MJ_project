@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.18">
+  <compounddef id="namespaceprojekt_v2" kind="namespace" language="C#">
+    <compoundname>projektV2</compoundname>
+    <innerclass refid="classprojekt_v2_1_1_d_b" prot="public">projektV2::DB</innerclass>
+    <innerclass refid="classprojekt_v2_1_1_logged_in" prot="public">projektV2::LoggedIn</innerclass>
+    <innerclass refid="classprojekt_v2_1_1_log_in_form" prot="public">projektV2::LogInForm</innerclass>
+    <innerclass refid="classprojekt_v2_1_1_program" prot="public">projektV2::Program</innerclass>
+    <innerclass refid="classprojekt_v2_1_1_register_form" prot="public">projektV2::RegisterForm</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="DB.cs" line="8" column="1"/>
+  </compounddef>
+</doxygen>

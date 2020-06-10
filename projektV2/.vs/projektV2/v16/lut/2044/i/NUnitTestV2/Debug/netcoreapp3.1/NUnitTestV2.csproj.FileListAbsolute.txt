@@ -1,0 +1,13 @@
+C:\Users\Wojciech\Desktop\projektV2\.vs\projektV2\v16\lut\0\b\NUnitTestV2\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\Wojciech\Desktop\projektV2\.vs\projektV2\v16\lut\0\b\NUnitTestV2\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\Wojciech\Desktop\projektV2\.vs\projektV2\v16\lut\0\b\NUnitTestV2\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\Wojciech\Desktop\projektV2\.vs\projektV2\v16\lut\0\b\NUnitTestV2\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\Wojciech\Desktop\projektV2\.vs\projektV2\v16\lut\0\b\NUnitTestV2\Debug\netcoreapp3.1\NUnitTestV2.deps.json
+C:\Users\Wojciech\Desktop\projektV2\.vs\projektV2\v16\lut\0\b\NUnitTestV2\Debug\netcoreapp3.1\NUnitTestV2.runtimeconfig.json
+C:\Users\Wojciech\Desktop\projektV2\.vs\projektV2\v16\lut\0\b\NUnitTestV2\Debug\netcoreapp3.1\NUnitTestV2.runtimeconfig.dev.json
+C:\Users\Wojciech\Desktop\projektV2\.vs\projektV2\v16\lut\0\b\NUnitTestV2\Debug\netcoreapp3.1\NUnitTestV2.dll
+C:\Users\Wojciech\Desktop\projektV2\.vs\projektV2\v16\lut\0\i\NUnitTestV2\Debug\netcoreapp3.1\NUnitTestV2.csprojAssemblyReference.cache
+C:\Users\Wojciech\Desktop\projektV2\.vs\projektV2\v16\lut\0\i\NUnitTestV2\Debug\netcoreapp3.1\NUnitTestV2.AssemblyInfoInputs.cache
+C:\Users\Wojciech\Desktop\projektV2\.vs\projektV2\v16\lut\0\i\NUnitTestV2\Debug\netcoreapp3.1\NUnitTestV2.AssemblyInfo.cs
+C:\Users\Wojciech\Desktop\projektV2\.vs\projektV2\v16\lut\0\i\NUnitTestV2\Debug\netcoreapp3.1\NUnitTestV2.csproj.CopyComplete
+C:\Users\Wojciech\Desktop\projektV2\.vs\projektV2\v16\lut\0\i\NUnitTestV2\Debug\netcoreapp3.1\NUnitTestV2.dll

@@ -1,0 +1,377 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.18">
+  <compounddef id="classprojekt_v2_1_1_log_in_form" kind="class" language="C#" prot="public">
+    <compoundname>projektV2::LogInForm</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Form</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classprojekt_v2_1_1_log_in_form_1a8ec16856c68e85273850d811d7bf915e" prot="private" static="no" mutable="no">
+        <type>System.ComponentModel.IContainer</type>
+        <definition>System.ComponentModel.IContainer projektV2.LogInForm.components</definition>
+        <argsstring></argsstring>
+        <name>components</name>
+        <initializer>= null</initializer>
+        <briefdescription>
+<para>Required designer variable. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="LogInForm.Designer.cs" line="8" column="48" bodyfile="LogInForm.Designer.cs" bodystart="8" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classprojekt_v2_1_1_log_in_form_1a5463a6da42de2f0aacdd3c61d3f0f4cd" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Panel</type>
+        <definition>System.Windows.Forms.Panel projektV2.LogInForm.panel1</definition>
+        <argsstring></argsstring>
+        <name>panel1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="LogInForm.Designer.cs" line="197" column="41" bodyfile="LogInForm.Designer.cs" bodystart="197" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classprojekt_v2_1_1_log_in_form_1adf46572bf9e451cb4e9f0758e08c6416" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Panel</type>
+        <definition>System.Windows.Forms.Panel projektV2.LogInForm.panel2</definition>
+        <argsstring></argsstring>
+        <name>panel2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="LogInForm.Designer.cs" line="198" column="41" bodyfile="LogInForm.Designer.cs" bodystart="198" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classprojekt_v2_1_1_log_in_form_1a90c1f35a40fd520704a12258a0ad8629" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label projektV2.LogInForm.label1</definition>
+        <argsstring></argsstring>
+        <name>label1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="LogInForm.Designer.cs" line="199" column="41" bodyfile="LogInForm.Designer.cs" bodystart="199" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classprojekt_v2_1_1_log_in_form_1a882013c441ea7c253d90162a41391798" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label projektV2.LogInForm.label3</definition>
+        <argsstring></argsstring>
+        <name>label3</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="LogInForm.Designer.cs" line="200" column="41" bodyfile="LogInForm.Designer.cs" bodystart="200" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classprojekt_v2_1_1_log_in_form_1a10659d82d550186df20513874bdaadf8" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button projektV2.LogInForm.submit</definition>
+        <argsstring></argsstring>
+        <name>submit</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="LogInForm.Designer.cs" line="201" column="42" bodyfile="LogInForm.Designer.cs" bodystart="201" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classprojekt_v2_1_1_log_in_form_1a77cd16d348ececf3ae782460dc681829" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.TextBox</type>
+        <definition>System.Windows.Forms.TextBox projektV2.LogInForm.passBox</definition>
+        <argsstring></argsstring>
+        <name>passBox</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="LogInForm.Designer.cs" line="202" column="43" bodyfile="LogInForm.Designer.cs" bodystart="202" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classprojekt_v2_1_1_log_in_form_1a713bfa3c0c85b8bb8e1f827cd8b03946" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.TextBox</type>
+        <definition>System.Windows.Forms.TextBox projektV2.LogInForm.emailBox</definition>
+        <argsstring></argsstring>
+        <name>emailBox</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="LogInForm.Designer.cs" line="203" column="43" bodyfile="LogInForm.Designer.cs" bodystart="203" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classprojekt_v2_1_1_log_in_form_1a52f9bbe028b284ac2feccc843f9e22db" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label projektV2.LogInForm.label2</definition>
+        <argsstring></argsstring>
+        <name>label2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="LogInForm.Designer.cs" line="204" column="41" bodyfile="LogInForm.Designer.cs" bodystart="204" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classprojekt_v2_1_1_log_in_form_1a2d5b5a9f4aa4084291fb2b7424dfd826" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Panel</type>
+        <definition>System.Windows.Forms.Panel projektV2.LogInForm.panel3</definition>
+        <argsstring></argsstring>
+        <name>panel3</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="LogInForm.Designer.cs" line="205" column="41" bodyfile="LogInForm.Designer.cs" bodystart="205" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classprojekt_v2_1_1_log_in_form_1a437a1cbf5522b9564d3e56a555bba785" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label projektV2.LogInForm.registerButt</definition>
+        <argsstring></argsstring>
+        <name>registerButt</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="LogInForm.Designer.cs" line="206" column="41" bodyfile="LogInForm.Designer.cs" bodystart="206" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classprojekt_v2_1_1_log_in_form_1a5802f77b2fed387884fb67d74411581b" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label projektV2.LogInForm.close</definition>
+        <argsstring></argsstring>
+        <name>close</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="LogInForm.Designer.cs" line="207" column="41" bodyfile="LogInForm.Designer.cs" bodystart="207" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classprojekt_v2_1_1_log_in_form_1abb6e783ac085a6797fad7bb7404ae764" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>projektV2.LogInForm.LogInForm</definition>
+        <argsstring>()</argsstring>
+        <name>LogInForm</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="LogInForm.cs" line="17" column="16" bodyfile="LogInForm.cs" bodystart="17" bodyend="20"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classprojekt_v2_1_1_log_in_form_1a63158c0709607c056bdb07f0dc838b05" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void projektV2.LogInForm.LogInForm_Load</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>LogInForm_Load</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="LogInForm.cs" line="22" column="22" bodyfile="LogInForm.cs" bodystart="22" bodyend="25"/>
+      </memberdef>
+      <memberdef kind="function" id="classprojekt_v2_1_1_log_in_form_1a4e85530ff94bd028b3b26cb9d5bc3ee2" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void projektV2.LogInForm.close_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>close_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="LogInForm.cs" line="27" column="22" bodyfile="LogInForm.cs" bodystart="27" bodyend="30"/>
+      </memberdef>
+      <memberdef kind="function" id="classprojekt_v2_1_1_log_in_form_1a76c90434b2f56f95742beef3b3f0dd88" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void projektV2.LogInForm.submit_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>submit_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+<para>creating question into db with values after validating </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>sender</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>e</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="LogInForm.cs" line="37" column="22" bodyfile="LogInForm.cs" bodystart="37" bodyend="77"/>
+      </memberdef>
+      <memberdef kind="function" id="classprojekt_v2_1_1_log_in_form_1aa2f01624a755d931f782e978d61ed17c" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void projektV2.LogInForm.registerButt_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>registerButt_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="LogInForm.cs" line="79" column="22" bodyfile="LogInForm.cs" bodystart="79" bodyend="84"/>
+      </memberdef>
+      <memberdef kind="function" id="classprojekt_v2_1_1_log_in_form_1a6ed421fb36759fe79a69cbc8883b2e26" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void projektV2.LogInForm.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+<para>Required method for Designer support - do not modify the contents of this method with the code editor. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="LogInForm.Designer.cs" line="29" column="22" bodyfile="LogInForm.Designer.cs" bodystart="29" bodyend="193"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="classprojekt_v2_1_1_log_in_form_1a647eb30da4148a5269062b6ff9679982" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void projektV2.LogInForm.Dispose</definition>
+        <argsstring>(bool disposing)</argsstring>
+        <name>Dispose</name>
+        <param>
+          <type>bool</type>
+          <declname>disposing</declname>
+        </param>
+        <briefdescription>
+<para>Clean up any resources being used. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>disposing</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>true if managed resources should be disposed; otherwise, false.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="LogInForm.Designer.cs" line="14" column="33" bodyfile="LogInForm.Designer.cs" bodystart="14" bodyend="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Form</label>
+      </node>
+      <node id="1">
+        <label>projektV2.LogInForm</label>
+        <link refid="classprojekt_v2_1_1_log_in_form"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Form</label>
+      </node>
+      <node id="1">
+        <label>projektV2.LogInForm</label>
+        <link refid="classprojekt_v2_1_1_log_in_form"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="LogInForm.cs" line="15" column="19" bodyfile="LogInForm.cs" bodystart="16" bodyend="85"/>
+    <listofallmembers>
+      <member refid="classprojekt_v2_1_1_log_in_form_1a5802f77b2fed387884fb67d74411581b" prot="private" virt="non-virtual"><scope>projektV2::LogInForm</scope><name>close</name></member>
+      <member refid="classprojekt_v2_1_1_log_in_form_1a4e85530ff94bd028b3b26cb9d5bc3ee2" prot="private" virt="non-virtual"><scope>projektV2::LogInForm</scope><name>close_Click</name></member>
+      <member refid="classprojekt_v2_1_1_log_in_form_1a8ec16856c68e85273850d811d7bf915e" prot="private" virt="non-virtual"><scope>projektV2::LogInForm</scope><name>components</name></member>
+      <member refid="classprojekt_v2_1_1_log_in_form_1a647eb30da4148a5269062b6ff9679982" prot="protected" virt="non-virtual"><scope>projektV2::LogInForm</scope><name>Dispose</name></member>
+      <member refid="classprojekt_v2_1_1_log_in_form_1a713bfa3c0c85b8bb8e1f827cd8b03946" prot="private" virt="non-virtual"><scope>projektV2::LogInForm</scope><name>emailBox</name></member>
+      <member refid="classprojekt_v2_1_1_log_in_form_1a6ed421fb36759fe79a69cbc8883b2e26" prot="private" virt="non-virtual"><scope>projektV2::LogInForm</scope><name>InitializeComponent</name></member>
+      <member refid="classprojekt_v2_1_1_log_in_form_1a90c1f35a40fd520704a12258a0ad8629" prot="private" virt="non-virtual"><scope>projektV2::LogInForm</scope><name>label1</name></member>
+      <member refid="classprojekt_v2_1_1_log_in_form_1a52f9bbe028b284ac2feccc843f9e22db" prot="private" virt="non-virtual"><scope>projektV2::LogInForm</scope><name>label2</name></member>
+      <member refid="classprojekt_v2_1_1_log_in_form_1a882013c441ea7c253d90162a41391798" prot="private" virt="non-virtual"><scope>projektV2::LogInForm</scope><name>label3</name></member>
+      <member refid="classprojekt_v2_1_1_log_in_form_1abb6e783ac085a6797fad7bb7404ae764" prot="public" virt="non-virtual"><scope>projektV2::LogInForm</scope><name>LogInForm</name></member>
+      <member refid="classprojekt_v2_1_1_log_in_form_1a63158c0709607c056bdb07f0dc838b05" prot="private" virt="non-virtual"><scope>projektV2::LogInForm</scope><name>LogInForm_Load</name></member>
+      <member refid="classprojekt_v2_1_1_log_in_form_1a5463a6da42de2f0aacdd3c61d3f0f4cd" prot="private" virt="non-virtual"><scope>projektV2::LogInForm</scope><name>panel1</name></member>
+      <member refid="classprojekt_v2_1_1_log_in_form_1adf46572bf9e451cb4e9f0758e08c6416" prot="private" virt="non-virtual"><scope>projektV2::LogInForm</scope><name>panel2</name></member>
+      <member refid="classprojekt_v2_1_1_log_in_form_1a2d5b5a9f4aa4084291fb2b7424dfd826" prot="private" virt="non-virtual"><scope>projektV2::LogInForm</scope><name>panel3</name></member>
+      <member refid="classprojekt_v2_1_1_log_in_form_1a77cd16d348ececf3ae782460dc681829" prot="private" virt="non-virtual"><scope>projektV2::LogInForm</scope><name>passBox</name></member>
+      <member refid="classprojekt_v2_1_1_log_in_form_1a437a1cbf5522b9564d3e56a555bba785" prot="private" virt="non-virtual"><scope>projektV2::LogInForm</scope><name>registerButt</name></member>
+      <member refid="classprojekt_v2_1_1_log_in_form_1aa2f01624a755d931f782e978d61ed17c" prot="private" virt="non-virtual"><scope>projektV2::LogInForm</scope><name>registerButt_Click</name></member>
+      <member refid="classprojekt_v2_1_1_log_in_form_1a10659d82d550186df20513874bdaadf8" prot="private" virt="non-virtual"><scope>projektV2::LogInForm</scope><name>submit</name></member>
+      <member refid="classprojekt_v2_1_1_log_in_form_1a76c90434b2f56f95742beef3b3f0dd88" prot="private" virt="non-virtual"><scope>projektV2::LogInForm</scope><name>submit_Click</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

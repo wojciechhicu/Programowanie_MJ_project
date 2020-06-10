@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.18">
+  <compound refid="classprojekt_v2_1_1_d_b" kind="class"><name>projektV2::DB</name>
+    <member refid="classprojekt_v2_1_1_d_b_1a9d077294af565785d8487055a8d972a7" kind="variable"><name>Connection</name></member>
+    <member refid="classprojekt_v2_1_1_d_b_1a4388b0ba4d4609fb95e1ae3194342734" kind="function"><name>CreateConnString</name></member>
+    <member refid="classprojekt_v2_1_1_d_b_1a6265cd3164befdd0be058780c2f319e6" kind="function"><name>openConnection</name></member>
+    <member refid="classprojekt_v2_1_1_d_b_1a923ee5a094e004e03ba8316e9a2dc95f" kind="function"><name>closeConnection</name></member>
+    <member refid="classprojekt_v2_1_1_d_b_1a102d06fc9bc40b55e46da216789cdadd" kind="function"><name>getConnection</name></member>
+  </compound>
+  <compound refid="classprojekt_v2_1_1_logged_in" kind="class"><name>projektV2::LoggedIn</name>
+    <member refid="classprojekt_v2_1_1_logged_in_1ab6a8afd107e827b50ad2ce47973b0e8d" kind="variable"><name>components</name></member>
+    <member refid="classprojekt_v2_1_1_logged_in_1af0099f1605f5035f9502a2f22c39dffc" kind="variable"><name>panel1</name></member>
+    <member refid="classprojekt_v2_1_1_logged_in_1a11b1ef3ff2d659f4bb232aa494084e67" kind="variable"><name>label2</name></member>
+    <member refid="classprojekt_v2_1_1_logged_in_1a91bd616e137332ea9a7b4836f2a9032d" kind="variable"><name>dataGridView1</name></member>
+    <member refid="classprojekt_v2_1_1_logged_in_1a59f9c61f2cf58058ec8f5ab2bfc3780f" kind="variable"><name>userNames</name></member>
+    <member refid="classprojekt_v2_1_1_logged_in_1aea2e4216363ef876116bca48001c85be" kind="variable"><name>taskField</name></member>
+    <member refid="classprojekt_v2_1_1_logged_in_1a82aea859321864300cfa5232f19dd3b2" kind="variable"><name>label3</name></member>
+    <member refid="classprojekt_v2_1_1_logged_in_1aeba95b910859a712cd6fe75222fd34b3" kind="variable"><name>label1</name></member>
+    <member refid="classprojekt_v2_1_1_logged_in_1ab4aeef2a5fbad9804cf62af5a8edaa66" kind="variable"><name>addButton</name></member>
+    <member refid="classprojekt_v2_1_1_logged_in_1a2162299f6ae30e2557d1b0d12b7e18d1" kind="function"><name>LoggedIn</name></member>
+    <member refid="classprojekt_v2_1_1_logged_in_1aa2ef22f22ca1a9549b459ee6f9ea1a86" kind="function"><name>label2_Click</name></member>
+    <member refid="classprojekt_v2_1_1_logged_in_1a866d6c33c1285af712c5c77f14ae906e" kind="function"><name>dataGridView1_CellContentClick</name></member>
+    <member refid="classprojekt_v2_1_1_logged_in_1af9d0e37c72770367d1fe8699110a80f6" kind="function"><name>addButton_Click</name></member>
+    <member refid="classprojekt_v2_1_1_logged_in_1ae8d895c8739f843ac84bc4a43a04e56e" kind="function"><name>InitializeComponent</name></member>
+    <member refid="classprojekt_v2_1_1_logged_in_1a05a7962eabee85ff8cd9aec91fdc04bc" kind="function"><name>Dispose</name></member>
+  </compound>
+  <compound refid="classprojekt_v2_1_1_log_in_form" kind="class"><name>projektV2::LogInForm</name>
+    <member refid="classprojekt_v2_1_1_log_in_form_1a8ec16856c68e85273850d811d7bf915e" kind="variable"><name>components</name></member>
+    <member refid="classprojekt_v2_1_1_log_in_form_1a5463a6da42de2f0aacdd3c61d3f0f4cd" kind="variable"><name>panel1</name></member>
+    <member refid="classprojekt_v2_1_1_log_in_form_1adf46572bf9e451cb4e9f0758e08c6416" kind="variable"><name>panel2</name></member>
+    <member refid="classprojekt_v2_1_1_log_in_form_1a90c1f35a40fd520704a12258a0ad8629" kind="variable"><name>label1</name></member>
+    <member refid="classprojekt_v2_1_1_log_in_form_1a882013c441ea7c253d90162a41391798" kind="variable"><name>label3</name></member>
+    <member refid="classprojekt_v2_1_1_log_in_form_1a10659d82d550186df20513874bdaadf8" kind="variable"><name>submit</name></member>
+    <member refid="classprojekt_v2_1_1_log_in_form_1a77cd16d348ececf3ae782460dc681829" kind="variable"><name>passBox</name></member>
+    <member refid="classprojekt_v2_1_1_log_in_form_1a713bfa3c0c85b8bb8e1f827cd8b03946" kind="variable"><name>emailBox</name></member>
+    <member refid="classprojekt_v2_1_1_log_in_form_1a52f9bbe028b284ac2feccc843f9e22db" kind="variable"><name>label2</name></member>
+    <member refid="classprojekt_v2_1_1_log_in_form_1a2d5b5a9f4aa4084291fb2b7424dfd826" kind="variable"><name>panel3</name></member>
+    <member refid="classprojekt_v2_1_1_log_in_form_1a437a1cbf5522b9564d3e56a555bba785" kind="variable"><name>registerButt</name></member>
+    <member refid="classprojekt_v2_1_1_log_in_form_1a5802f77b2fed387884fb67d74411581b" kind="variable"><name>close</name></member>
+    <member refid="classprojekt_v2_1_1_log_in_form_1abb6e783ac085a6797fad7bb7404ae764" kind="function"><name>LogInForm</name></member>
+    <member refid="classprojekt_v2_1_1_log_in_form_1a63158c0709607c056bdb07f0dc838b05" kind="function"><name>LogInForm_Load</name></member>
+    <member refid="classprojekt_v2_1_1_log_in_form_1a4e85530ff94bd028b3b26cb9d5bc3ee2" kind="function"><name>close_Click</name></member>
+    <member refid="classprojekt_v2_1_1_log_in_form_1a76c90434b2f56f95742beef3b3f0dd88" kind="function"><name>submit_Click</name></member>
+    <member refid="classprojekt_v2_1_1_log_in_form_1aa2f01624a755d931f782e978d61ed17c" kind="function"><name>registerButt_Click</name></member>
+    <member refid="classprojekt_v2_1_1_log_in_form_1a6ed421fb36759fe79a69cbc8883b2e26" kind="function"><name>InitializeComponent</name></member>
+    <member refid="classprojekt_v2_1_1_log_in_form_1a647eb30da4148a5269062b6ff9679982" kind="function"><name>Dispose</name></member>
+  </compound>
+  <compound refid="classprojekt_v2_1_1_program" kind="class"><name>projektV2::Program</name>
+    <member refid="classprojekt_v2_1_1_program_1a57d86a08c878f47af7b5712837a33c73" kind="function"><name>Main</name></member>
+  </compound>
+  <compound refid="classprojekt_v2_1_1_register_form" kind="class"><name>projektV2::RegisterForm</name>
+    <member refid="classprojekt_v2_1_1_register_form_1a673637bcab16117a39b67a0e273f226c" kind="variable"><name>components</name></member>
+    <member refid="classprojekt_v2_1_1_register_form_1a51b2c02acfecd198c2b68727fc9d376c" kind="variable"><name>panel1</name></member>
+    <member refid="classprojekt_v2_1_1_register_form_1af48f48eae825cd151933776b931abd44" kind="variable"><name>panel3</name></member>
+    <member refid="classprojekt_v2_1_1_register_form_1a1ada9609ed80722d4f1fb14de14a5670" kind="variable"><name>haveAcc</name></member>
+    <member refid="classprojekt_v2_1_1_register_form_1a895245e45b01e1a870e2fe05a463afa2" kind="variable"><name>panel2</name></member>
+    <member refid="classprojekt_v2_1_1_register_form_1a5366c02674417ab2c628a407bdcc70fa" kind="variable"><name>label1</name></member>
+    <member refid="classprojekt_v2_1_1_register_form_1ae7df8fd76838241100208780bb6e9de5" kind="variable"><name>registerButton</name></member>
+    <member refid="classprojekt_v2_1_1_register_form_1a47c57165b4124d3825edd051b702c7fa" kind="variable"><name>emailBox</name></member>
+    <member refid="classprojekt_v2_1_1_register_form_1a63a55dc3890dbc502dc6d3f291353aca" kind="variable"><name>pinBox</name></member>
+    <member refid="classprojekt_v2_1_1_register_form_1a68e88886334b23fa5009a1a2bbd3764a" kind="variable"><name>passBox</name></member>
+    <member refid="classprojekt_v2_1_1_register_form_1a4ad9907be717edc04630e3b6a89f4592" kind="variable"><name>label5</name></member>
+    <member refid="classprojekt_v2_1_1_register_form_1a3e528b8237451b058c66f43cffd94731" kind="variable"><name>ageBox</name></member>
+    <member refid="classprojekt_v2_1_1_register_form_1a17bc5ff32203b8e1ca94573191f57959" kind="variable"><name>label4</name></member>
+    <member refid="classprojekt_v2_1_1_register_form_1a28a20ae0c4131fb212e43f41e4cdeb2a" kind="variable"><name>label3</name></member>
+    <member refid="classprojekt_v2_1_1_register_form_1a9b661636614c6f70fe888100ff43cc66" kind="variable"><name>label2</name></member>
+    <member refid="classprojekt_v2_1_1_register_form_1a405c99785e84a6d56266fe70e0029bf3" kind="variable"><name>label6</name></member>
+    <member refid="classprojekt_v2_1_1_register_form_1ada1d5431f8078f4a2e501536b3618d82" kind="variable"><name>close</name></member>
+    <member refid="classprojekt_v2_1_1_register_form_1a92b142d8486b53d8c3a1adbb759efe2b" kind="variable"><name>pass2Box</name></member>
+    <member refid="classprojekt_v2_1_1_register_form_1a67bebff69b81b127158fb591f2a8a215" kind="variable"><name>label7</name></member>
+    <member refid="classprojekt_v2_1_1_register_form_1ab4b27080699426251852ba7d01f88225" kind="function"><name>matchPass</name></member>
+    <member refid="classprojekt_v2_1_1_register_form_1af0df04d8a706729c42983c5db81e446e" kind="function"><name>matchMail</name></member>
+    <member refid="classprojekt_v2_1_1_register_form_1a8927cf1db39399930bd80e915fe827ad" kind="function"><name>RegisterForm_Load</name></member>
+    <member refid="classprojekt_v2_1_1_register_form_1a6c0d2ecd85ebcbf35d7dd05ab09d3b6c" kind="function"><name>close_Click</name></member>
+    <member refid="classprojekt_v2_1_1_register_form_1a5310a414921623c5f2da41e410a63a1e" kind="function"><name>haveAcc_Click</name></member>
+    <member refid="classprojekt_v2_1_1_register_form_1aa85d6f7d1909dbc335b2808617cb718f" kind="function"><name>registerButton_Click</name></member>
+    <member refid="classprojekt_v2_1_1_register_form_1a8552e0b32388a9c5f215b248d4ba5c08" kind="function"><name>InitializeComponent</name></member>
+    <member refid="classprojekt_v2_1_1_register_form_1acd499e316ae65954b6a4053a26529d8a" kind="function"><name>matchPIN</name></member>
+    <member refid="classprojekt_v2_1_1_register_form_1add5a3056054177654d60d4dd498c3566" kind="function"><name>matchAge</name></member>
+    <member refid="classprojekt_v2_1_1_register_form_1a4693f02b68921cdbb7fb2424da890cfa" kind="function"><name>RegisterForm</name></member>
+    <member refid="classprojekt_v2_1_1_register_form_1a6237ba7fc0994afb4b355b598a2a5484" kind="function"><name>Dispose</name></member>
+  </compound>
+  <compound refid="namespace_my_sql_1_1_data_1_1_my_sql_client" kind="namespace"><name>MySql::Data::MySqlClient</name>
+  </compound>
+  <compound refid="namespaceprojekt_v2" kind="namespace"><name>projektV2</name>
+  </compound>
+  <compound refid="namespace_system" kind="namespace"><name>System</name>
+  </compound>
+  <compound refid="namespace_system_1_1_collections_1_1_generic" kind="namespace"><name>System::Collections::Generic</name>
+  </compound>
+  <compound refid="namespace_system_1_1_component_model" kind="namespace"><name>System::ComponentModel</name>
+  </compound>
+  <compound refid="namespace_system_1_1_data" kind="namespace"><name>System::Data</name>
+  </compound>
+  <compound refid="namespace_system_1_1_drawing" kind="namespace"><name>System::Drawing</name>
+  </compound>
+  <compound refid="namespace_system_1_1_linq" kind="namespace"><name>System::Linq</name>
+  </compound>
+  <compound refid="namespace_system_1_1_text" kind="namespace"><name>System::Text</name>
+  </compound>
+  <compound refid="namespace_system_1_1_text_1_1_regular_expressions" kind="namespace"><name>System::Text::RegularExpressions</name>
+  </compound>
+  <compound refid="namespace_system_1_1_threading_1_1_tasks" kind="namespace"><name>System::Threading::Tasks</name>
+  </compound>
+  <compound refid="namespace_system_1_1_windows_1_1_forms" kind="namespace"><name>System::Windows::Forms</name>
+  </compound>
+  <compound refid="_d_b_8cs" kind="file"><name>DB.cs</name>
+  </compound>
+  <compound refid="_logged_in_8cs" kind="file"><name>LoggedIn.cs</name>
+  </compound>
+  <compound refid="_logged_in_8_designer_8cs" kind="file"><name>LoggedIn.Designer.cs</name>
+  </compound>
+  <compound refid="_log_in_form_8cs" kind="file"><name>LogInForm.cs</name>
+  </compound>
+  <compound refid="_log_in_form_8_designer_8cs" kind="file"><name>LogInForm.Designer.cs</name>
+  </compound>
+  <compound refid="_program_8cs" kind="file"><name>Program.cs</name>
+  </compound>
+  <compound refid="_register_form_8cs" kind="file"><name>RegisterForm.cs</name>
+  </compound>
+  <compound refid="_register_form_8_designer_8cs" kind="file"><name>RegisterForm.Designer.cs</name>
+  </compound>
+</doxygenindex>

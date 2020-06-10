@@ -1,0 +1,15 @@
+C:\Users\Wojciech\Desktop\projektV2\.vs\projektV2\v16\lut\0\b\UniTestV2\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\Wojciech\Desktop\projektV2\.vs\projektV2\v16\lut\0\b\UniTestV2\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\Wojciech\Desktop\projektV2\.vs\projektV2\v16\lut\0\b\UniTestV2\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\Wojciech\Desktop\projektV2\.vs\projektV2\v16\lut\0\b\UniTestV2\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\Wojciech\Desktop\projektV2\.vs\projektV2\v16\lut\0\b\UniTestV2\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Wojciech\Desktop\projektV2\.vs\projektV2\v16\lut\0\b\UniTestV2\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Wojciech\Desktop\projektV2\.vs\projektV2\v16\lut\0\b\UniTestV2\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Wojciech\Desktop\projektV2\.vs\projektV2\v16\lut\0\b\UniTestV2\Debug\netcoreapp3.1\UniTestV2.deps.json
+C:\Users\Wojciech\Desktop\projektV2\.vs\projektV2\v16\lut\0\b\UniTestV2\Debug\netcoreapp3.1\UniTestV2.runtimeconfig.json
+C:\Users\Wojciech\Desktop\projektV2\.vs\projektV2\v16\lut\0\b\UniTestV2\Debug\netcoreapp3.1\UniTestV2.runtimeconfig.dev.json
+C:\Users\Wojciech\Desktop\projektV2\.vs\projektV2\v16\lut\0\b\UniTestV2\Debug\netcoreapp3.1\UniTestV2.dll
+C:\Users\Wojciech\Desktop\projektV2\.vs\projektV2\v16\lut\0\i\UniTestV2\Debug\netcoreapp3.1\UniTestV2.AssemblyInfoInputs.cache
+C:\Users\Wojciech\Desktop\projektV2\.vs\projektV2\v16\lut\0\i\UniTestV2\Debug\netcoreapp3.1\UniTestV2.AssemblyInfo.cs
+C:\Users\Wojciech\Desktop\projektV2\.vs\projektV2\v16\lut\0\i\UniTestV2\Debug\netcoreapp3.1\UniTestV2.csproj.CopyComplete
+C:\Users\Wojciech\Desktop\projektV2\.vs\projektV2\v16\lut\0\i\UniTestV2\Debug\netcoreapp3.1\UniTestV2.dll

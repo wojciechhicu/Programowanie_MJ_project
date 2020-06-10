@@ -1,0 +1,313 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.18">
+  <compounddef id="classprojekt_v2_1_1_logged_in" kind="class" language="C#" prot="public">
+    <compoundname>projektV2::LoggedIn</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Form</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classprojekt_v2_1_1_logged_in_1ab6a8afd107e827b50ad2ce47973b0e8d" prot="private" static="no" mutable="no">
+        <type>System.ComponentModel.IContainer</type>
+        <definition>System.ComponentModel.IContainer projektV2.LoggedIn.components</definition>
+        <argsstring></argsstring>
+        <name>components</name>
+        <initializer>= null</initializer>
+        <briefdescription>
+<para>Required designer variable. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="LoggedIn.Designer.cs" line="8" column="48" bodyfile="LoggedIn.Designer.cs" bodystart="8" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classprojekt_v2_1_1_logged_in_1af0099f1605f5035f9502a2f22c39dffc" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Panel</type>
+        <definition>System.Windows.Forms.Panel projektV2.LoggedIn.panel1</definition>
+        <argsstring></argsstring>
+        <name>panel1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="LoggedIn.Designer.cs" line="153" column="41" bodyfile="LoggedIn.Designer.cs" bodystart="153" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classprojekt_v2_1_1_logged_in_1a11b1ef3ff2d659f4bb232aa494084e67" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label projektV2.LoggedIn.label2</definition>
+        <argsstring></argsstring>
+        <name>label2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="LoggedIn.Designer.cs" line="154" column="41" bodyfile="LoggedIn.Designer.cs" bodystart="154" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classprojekt_v2_1_1_logged_in_1a91bd616e137332ea9a7b4836f2a9032d" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.DataGridView</type>
+        <definition>System.Windows.Forms.DataGridView projektV2.LoggedIn.dataGridView1</definition>
+        <argsstring></argsstring>
+        <name>dataGridView1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="LoggedIn.Designer.cs" line="155" column="48" bodyfile="LoggedIn.Designer.cs" bodystart="155" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classprojekt_v2_1_1_logged_in_1a59f9c61f2cf58058ec8f5ab2bfc3780f" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.ComboBox</type>
+        <definition>System.Windows.Forms.ComboBox projektV2.LoggedIn.userNames</definition>
+        <argsstring></argsstring>
+        <name>userNames</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="LoggedIn.Designer.cs" line="156" column="44" bodyfile="LoggedIn.Designer.cs" bodystart="156" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classprojekt_v2_1_1_logged_in_1aea2e4216363ef876116bca48001c85be" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.TextBox</type>
+        <definition>System.Windows.Forms.TextBox projektV2.LoggedIn.taskField</definition>
+        <argsstring></argsstring>
+        <name>taskField</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="LoggedIn.Designer.cs" line="157" column="43" bodyfile="LoggedIn.Designer.cs" bodystart="157" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classprojekt_v2_1_1_logged_in_1a82aea859321864300cfa5232f19dd3b2" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label projektV2.LoggedIn.label3</definition>
+        <argsstring></argsstring>
+        <name>label3</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="LoggedIn.Designer.cs" line="158" column="41" bodyfile="LoggedIn.Designer.cs" bodystart="158" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classprojekt_v2_1_1_logged_in_1aeba95b910859a712cd6fe75222fd34b3" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label projektV2.LoggedIn.label1</definition>
+        <argsstring></argsstring>
+        <name>label1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="LoggedIn.Designer.cs" line="159" column="41" bodyfile="LoggedIn.Designer.cs" bodystart="159" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classprojekt_v2_1_1_logged_in_1ab4aeef2a5fbad9804cf62af5a8edaa66" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button projektV2.LoggedIn.addButton</definition>
+        <argsstring></argsstring>
+        <name>addButton</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="LoggedIn.Designer.cs" line="160" column="42" bodyfile="LoggedIn.Designer.cs" bodystart="160" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classprojekt_v2_1_1_logged_in_1a2162299f6ae30e2557d1b0d12b7e18d1" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>projektV2.LoggedIn.LoggedIn</definition>
+        <argsstring>()</argsstring>
+        <name>LoggedIn</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="LoggedIn.cs" line="16" column="16" bodyfile="LoggedIn.cs" bodystart="16" bodyend="19"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classprojekt_v2_1_1_logged_in_1aa2ef22f22ca1a9549b459ee6f9ea1a86" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void projektV2.LoggedIn.label2_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>label2_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="LoggedIn.cs" line="21" column="22" bodyfile="LoggedIn.cs" bodystart="21" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="classprojekt_v2_1_1_logged_in_1a866d6c33c1285af712c5c77f14ae906e" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void projektV2.LoggedIn.dataGridView1_CellContentClick</definition>
+        <argsstring>(object sender, DataGridViewCellEventArgs e)</argsstring>
+        <name>dataGridView1_CellContentClick</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>DataGridViewCellEventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="LoggedIn.cs" line="28" column="22" bodyfile="LoggedIn.cs" bodystart="28" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="classprojekt_v2_1_1_logged_in_1af9d0e37c72770367d1fe8699110a80f6" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void projektV2.LoggedIn.addButton_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>addButton_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+<para>adding and showing tasks for other users </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>sender</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>e</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="LoggedIn.cs" line="38" column="22" bodyfile="LoggedIn.cs" bodystart="38" bodyend="83"/>
+      </memberdef>
+      <memberdef kind="function" id="classprojekt_v2_1_1_logged_in_1ae8d895c8739f843ac84bc4a43a04e56e" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void projektV2.LoggedIn.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+<para>Required method for Designer support - do not modify the contents of this method with the code editor. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="LoggedIn.Designer.cs" line="29" column="22" bodyfile="LoggedIn.Designer.cs" bodystart="29" bodyend="149"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="classprojekt_v2_1_1_logged_in_1a05a7962eabee85ff8cd9aec91fdc04bc" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void projektV2.LoggedIn.Dispose</definition>
+        <argsstring>(bool disposing)</argsstring>
+        <name>Dispose</name>
+        <param>
+          <type>bool</type>
+          <declname>disposing</declname>
+        </param>
+        <briefdescription>
+<para>Clean up any resources being used. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>disposing</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>true if managed resources should be disposed; otherwise, false.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="LoggedIn.Designer.cs" line="14" column="33" bodyfile="LoggedIn.Designer.cs" bodystart="14" bodyend="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Form</label>
+      </node>
+      <node id="1">
+        <label>projektV2.LoggedIn</label>
+        <link refid="classprojekt_v2_1_1_logged_in"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Form</label>
+      </node>
+      <node id="1">
+        <label>projektV2.LoggedIn</label>
+        <link refid="classprojekt_v2_1_1_logged_in"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="LoggedIn.cs" line="14" column="19" bodyfile="LoggedIn.cs" bodystart="15" bodyend="84"/>
+    <listofallmembers>
+      <member refid="classprojekt_v2_1_1_logged_in_1ab4aeef2a5fbad9804cf62af5a8edaa66" prot="private" virt="non-virtual"><scope>projektV2::LoggedIn</scope><name>addButton</name></member>
+      <member refid="classprojekt_v2_1_1_logged_in_1af9d0e37c72770367d1fe8699110a80f6" prot="private" virt="non-virtual"><scope>projektV2::LoggedIn</scope><name>addButton_Click</name></member>
+      <member refid="classprojekt_v2_1_1_logged_in_1ab6a8afd107e827b50ad2ce47973b0e8d" prot="private" virt="non-virtual"><scope>projektV2::LoggedIn</scope><name>components</name></member>
+      <member refid="classprojekt_v2_1_1_logged_in_1a91bd616e137332ea9a7b4836f2a9032d" prot="private" virt="non-virtual"><scope>projektV2::LoggedIn</scope><name>dataGridView1</name></member>
+      <member refid="classprojekt_v2_1_1_logged_in_1a866d6c33c1285af712c5c77f14ae906e" prot="private" virt="non-virtual"><scope>projektV2::LoggedIn</scope><name>dataGridView1_CellContentClick</name></member>
+      <member refid="classprojekt_v2_1_1_logged_in_1a05a7962eabee85ff8cd9aec91fdc04bc" prot="protected" virt="non-virtual"><scope>projektV2::LoggedIn</scope><name>Dispose</name></member>
+      <member refid="classprojekt_v2_1_1_logged_in_1ae8d895c8739f843ac84bc4a43a04e56e" prot="private" virt="non-virtual"><scope>projektV2::LoggedIn</scope><name>InitializeComponent</name></member>
+      <member refid="classprojekt_v2_1_1_logged_in_1aeba95b910859a712cd6fe75222fd34b3" prot="private" virt="non-virtual"><scope>projektV2::LoggedIn</scope><name>label1</name></member>
+      <member refid="classprojekt_v2_1_1_logged_in_1a11b1ef3ff2d659f4bb232aa494084e67" prot="private" virt="non-virtual"><scope>projektV2::LoggedIn</scope><name>label2</name></member>
+      <member refid="classprojekt_v2_1_1_logged_in_1aa2ef22f22ca1a9549b459ee6f9ea1a86" prot="private" virt="non-virtual"><scope>projektV2::LoggedIn</scope><name>label2_Click</name></member>
+      <member refid="classprojekt_v2_1_1_logged_in_1a82aea859321864300cfa5232f19dd3b2" prot="private" virt="non-virtual"><scope>projektV2::LoggedIn</scope><name>label3</name></member>
+      <member refid="classprojekt_v2_1_1_logged_in_1a2162299f6ae30e2557d1b0d12b7e18d1" prot="public" virt="non-virtual"><scope>projektV2::LoggedIn</scope><name>LoggedIn</name></member>
+      <member refid="classprojekt_v2_1_1_logged_in_1af0099f1605f5035f9502a2f22c39dffc" prot="private" virt="non-virtual"><scope>projektV2::LoggedIn</scope><name>panel1</name></member>
+      <member refid="classprojekt_v2_1_1_logged_in_1aea2e4216363ef876116bca48001c85be" prot="private" virt="non-virtual"><scope>projektV2::LoggedIn</scope><name>taskField</name></member>
+      <member refid="classprojekt_v2_1_1_logged_in_1a59f9c61f2cf58058ec8f5ab2bfc3780f" prot="private" virt="non-virtual"><scope>projektV2::LoggedIn</scope><name>userNames</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

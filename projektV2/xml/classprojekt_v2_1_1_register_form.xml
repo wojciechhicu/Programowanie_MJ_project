@@ -1,0 +1,606 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.18">
+  <compounddef id="classprojekt_v2_1_1_register_form" kind="class" language="C#" prot="public">
+    <compoundname>projektV2::RegisterForm</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Form</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classprojekt_v2_1_1_register_form_1a673637bcab16117a39b67a0e273f226c" prot="private" static="no" mutable="no">
+        <type>System.ComponentModel.IContainer</type>
+        <definition>System.ComponentModel.IContainer projektV2.RegisterForm.components</definition>
+        <argsstring></argsstring>
+        <name>components</name>
+        <initializer>= null</initializer>
+        <briefdescription>
+<para>Required designer variable. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RegisterForm.Designer.cs" line="8" column="48" bodyfile="RegisterForm.Designer.cs" bodystart="8" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classprojekt_v2_1_1_register_form_1a51b2c02acfecd198c2b68727fc9d376c" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Panel</type>
+        <definition>System.Windows.Forms.Panel projektV2.RegisterForm.panel1</definition>
+        <argsstring></argsstring>
+        <name>panel1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RegisterForm.Designer.cs" line="300" column="41" bodyfile="RegisterForm.Designer.cs" bodystart="300" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classprojekt_v2_1_1_register_form_1af48f48eae825cd151933776b931abd44" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Panel</type>
+        <definition>System.Windows.Forms.Panel projektV2.RegisterForm.panel3</definition>
+        <argsstring></argsstring>
+        <name>panel3</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RegisterForm.Designer.cs" line="301" column="41" bodyfile="RegisterForm.Designer.cs" bodystart="301" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classprojekt_v2_1_1_register_form_1a1ada9609ed80722d4f1fb14de14a5670" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label projektV2.RegisterForm.haveAcc</definition>
+        <argsstring></argsstring>
+        <name>haveAcc</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RegisterForm.Designer.cs" line="302" column="41" bodyfile="RegisterForm.Designer.cs" bodystart="302" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classprojekt_v2_1_1_register_form_1a895245e45b01e1a870e2fe05a463afa2" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Panel</type>
+        <definition>System.Windows.Forms.Panel projektV2.RegisterForm.panel2</definition>
+        <argsstring></argsstring>
+        <name>panel2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RegisterForm.Designer.cs" line="303" column="41" bodyfile="RegisterForm.Designer.cs" bodystart="303" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classprojekt_v2_1_1_register_form_1a5366c02674417ab2c628a407bdcc70fa" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label projektV2.RegisterForm.label1</definition>
+        <argsstring></argsstring>
+        <name>label1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RegisterForm.Designer.cs" line="304" column="41" bodyfile="RegisterForm.Designer.cs" bodystart="304" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classprojekt_v2_1_1_register_form_1ae7df8fd76838241100208780bb6e9de5" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button projektV2.RegisterForm.registerButton</definition>
+        <argsstring></argsstring>
+        <name>registerButton</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RegisterForm.Designer.cs" line="305" column="42" bodyfile="RegisterForm.Designer.cs" bodystart="305" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classprojekt_v2_1_1_register_form_1a47c57165b4124d3825edd051b702c7fa" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.TextBox</type>
+        <definition>System.Windows.Forms.TextBox projektV2.RegisterForm.emailBox</definition>
+        <argsstring></argsstring>
+        <name>emailBox</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RegisterForm.Designer.cs" line="306" column="43" bodyfile="RegisterForm.Designer.cs" bodystart="306" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classprojekt_v2_1_1_register_form_1a63a55dc3890dbc502dc6d3f291353aca" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.TextBox</type>
+        <definition>System.Windows.Forms.TextBox projektV2.RegisterForm.pinBox</definition>
+        <argsstring></argsstring>
+        <name>pinBox</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RegisterForm.Designer.cs" line="307" column="43" bodyfile="RegisterForm.Designer.cs" bodystart="307" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classprojekt_v2_1_1_register_form_1a68e88886334b23fa5009a1a2bbd3764a" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.TextBox</type>
+        <definition>System.Windows.Forms.TextBox projektV2.RegisterForm.passBox</definition>
+        <argsstring></argsstring>
+        <name>passBox</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RegisterForm.Designer.cs" line="308" column="43" bodyfile="RegisterForm.Designer.cs" bodystart="308" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classprojekt_v2_1_1_register_form_1a4ad9907be717edc04630e3b6a89f4592" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label projektV2.RegisterForm.label5</definition>
+        <argsstring></argsstring>
+        <name>label5</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RegisterForm.Designer.cs" line="309" column="41" bodyfile="RegisterForm.Designer.cs" bodystart="309" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classprojekt_v2_1_1_register_form_1a3e528b8237451b058c66f43cffd94731" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.ComboBox</type>
+        <definition>System.Windows.Forms.ComboBox projektV2.RegisterForm.ageBox</definition>
+        <argsstring></argsstring>
+        <name>ageBox</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RegisterForm.Designer.cs" line="310" column="44" bodyfile="RegisterForm.Designer.cs" bodystart="310" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classprojekt_v2_1_1_register_form_1a17bc5ff32203b8e1ca94573191f57959" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label projektV2.RegisterForm.label4</definition>
+        <argsstring></argsstring>
+        <name>label4</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RegisterForm.Designer.cs" line="311" column="41" bodyfile="RegisterForm.Designer.cs" bodystart="311" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classprojekt_v2_1_1_register_form_1a28a20ae0c4131fb212e43f41e4cdeb2a" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label projektV2.RegisterForm.label3</definition>
+        <argsstring></argsstring>
+        <name>label3</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RegisterForm.Designer.cs" line="312" column="41" bodyfile="RegisterForm.Designer.cs" bodystart="312" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classprojekt_v2_1_1_register_form_1a9b661636614c6f70fe888100ff43cc66" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label projektV2.RegisterForm.label2</definition>
+        <argsstring></argsstring>
+        <name>label2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RegisterForm.Designer.cs" line="313" column="41" bodyfile="RegisterForm.Designer.cs" bodystart="313" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classprojekt_v2_1_1_register_form_1a405c99785e84a6d56266fe70e0029bf3" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label projektV2.RegisterForm.label6</definition>
+        <argsstring></argsstring>
+        <name>label6</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RegisterForm.Designer.cs" line="314" column="41" bodyfile="RegisterForm.Designer.cs" bodystart="314" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classprojekt_v2_1_1_register_form_1ada1d5431f8078f4a2e501536b3618d82" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label projektV2.RegisterForm.close</definition>
+        <argsstring></argsstring>
+        <name>close</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RegisterForm.Designer.cs" line="315" column="41" bodyfile="RegisterForm.Designer.cs" bodystart="315" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classprojekt_v2_1_1_register_form_1a92b142d8486b53d8c3a1adbb759efe2b" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.TextBox</type>
+        <definition>System.Windows.Forms.TextBox projektV2.RegisterForm.pass2Box</definition>
+        <argsstring></argsstring>
+        <name>pass2Box</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RegisterForm.Designer.cs" line="316" column="43" bodyfile="RegisterForm.Designer.cs" bodystart="316" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classprojekt_v2_1_1_register_form_1a67bebff69b81b127158fb591f2a8a215" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label projektV2.RegisterForm.label7</definition>
+        <argsstring></argsstring>
+        <name>label7</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RegisterForm.Designer.cs" line="317" column="41" bodyfile="RegisterForm.Designer.cs" bodystart="317" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classprojekt_v2_1_1_register_form_1ab4b27080699426251852ba7d01f88225" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>Boolean</type>
+        <definition>Boolean projektV2.RegisterForm.matchPass</definition>
+        <argsstring>(string pass1, string pass2)</argsstring>
+        <name>matchPass</name>
+        <param>
+          <type>string</type>
+          <declname>pass1</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>pass2</declname>
+        </param>
+        <briefdescription>
+<para>funcions needed for validating forms matching if length of two passwords are between 8 and 15 digits and if yes then matching if they are the same </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>pass1</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>pass2</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para></para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RegisterForm.cs" line="26" column="17" bodyfile="RegisterForm.cs" bodystart="26" bodyend="44"/>
+      </memberdef>
+      <memberdef kind="function" id="classprojekt_v2_1_1_register_form_1af0df04d8a706729c42983c5db81e446e" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>Boolean</type>
+        <definition>Boolean projektV2.RegisterForm.matchMail</definition>
+        <argsstring>(string mail)</argsstring>
+        <name>matchMail</name>
+        <param>
+          <type>string</type>
+          <declname>mail</declname>
+        </param>
+        <briefdescription>
+<para>trying to match email to regular expression (any digit + @ + any digit + . 2-3 digits) </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>mail</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para></para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RegisterForm.cs" line="50" column="17" bodyfile="RegisterForm.cs" bodystart="50" bodyend="58"/>
+      </memberdef>
+      <memberdef kind="function" id="classprojekt_v2_1_1_register_form_1a8927cf1db39399930bd80e915fe827ad" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void projektV2.RegisterForm.RegisterForm_Load</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>RegisterForm_Load</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RegisterForm.cs" line="97" column="22" bodyfile="RegisterForm.cs" bodystart="97" bodyend="100"/>
+      </memberdef>
+      <memberdef kind="function" id="classprojekt_v2_1_1_register_form_1a6c0d2ecd85ebcbf35d7dd05ab09d3b6c" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void projektV2.RegisterForm.close_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>close_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RegisterForm.cs" line="102" column="22" bodyfile="RegisterForm.cs" bodystart="102" bodyend="105"/>
+      </memberdef>
+      <memberdef kind="function" id="classprojekt_v2_1_1_register_form_1a5310a414921623c5f2da41e410a63a1e" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void projektV2.RegisterForm.haveAcc_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>haveAcc_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RegisterForm.cs" line="107" column="22" bodyfile="RegisterForm.cs" bodystart="107" bodyend="112"/>
+      </memberdef>
+      <memberdef kind="function" id="classprojekt_v2_1_1_register_form_1aa85d6f7d1909dbc335b2808617cb718f" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void projektV2.RegisterForm.registerButton_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>registerButton_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+<para>sending correct values to db as user information after validating </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>sender</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>e</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RegisterForm.cs" line="119" column="22" bodyfile="RegisterForm.cs" bodystart="119" bodyend="153"/>
+      </memberdef>
+      <memberdef kind="function" id="classprojekt_v2_1_1_register_form_1a8552e0b32388a9c5f215b248d4ba5c08" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void projektV2.RegisterForm.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+<para>Required method for Designer support - do not modify the contents of this method with the code editor. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RegisterForm.Designer.cs" line="29" column="22" bodyfile="RegisterForm.Designer.cs" bodystart="29" bodyend="296"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classprojekt_v2_1_1_register_form_1acd499e316ae65954b6a4053a26529d8a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>Boolean</type>
+        <definition>Boolean projektV2.RegisterForm.matchPIN</definition>
+        <argsstring>(string pin)</argsstring>
+        <name>matchPIN</name>
+        <param>
+          <type>string</type>
+          <declname>pin</declname>
+        </param>
+        <briefdescription>
+<para>regular expression of PIN field 4 numbers only </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>pin</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para></para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RegisterForm.cs" line="65" column="24" bodyfile="RegisterForm.cs" bodystart="65" bodyend="73"/>
+      </memberdef>
+      <memberdef kind="function" id="classprojekt_v2_1_1_register_form_1add5a3056054177654d60d4dd498c3566" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>Boolean</type>
+        <definition>Boolean projektV2.RegisterForm.matchAge</definition>
+        <argsstring>(string age)</argsstring>
+        <name>matchAge</name>
+        <param>
+          <type>string</type>
+          <declname>age</declname>
+        </param>
+        <briefdescription>
+<para>regular expression of age field 4 numbers only </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>age</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para></para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RegisterForm.cs" line="80" column="24" bodyfile="RegisterForm.cs" bodystart="80" bodyend="88"/>
+      </memberdef>
+      <memberdef kind="function" id="classprojekt_v2_1_1_register_form_1a4693f02b68921cdbb7fb2424da890cfa" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>projektV2.RegisterForm.RegisterForm</definition>
+        <argsstring>()</argsstring>
+        <name>RegisterForm</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RegisterForm.cs" line="92" column="16" bodyfile="RegisterForm.cs" bodystart="92" bodyend="95"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="classprojekt_v2_1_1_register_form_1a6237ba7fc0994afb4b355b598a2a5484" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void projektV2.RegisterForm.Dispose</definition>
+        <argsstring>(bool disposing)</argsstring>
+        <name>Dispose</name>
+        <param>
+          <type>bool</type>
+          <declname>disposing</declname>
+        </param>
+        <briefdescription>
+<para>Clean up any resources being used. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>disposing</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>true if managed resources should be disposed; otherwise, false.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RegisterForm.Designer.cs" line="14" column="33" bodyfile="RegisterForm.Designer.cs" bodystart="14" bodyend="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Form</label>
+      </node>
+      <node id="1">
+        <label>projektV2.RegisterForm</label>
+        <link refid="classprojekt_v2_1_1_register_form"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Form</label>
+      </node>
+      <node id="1">
+        <label>projektV2.RegisterForm</label>
+        <link refid="classprojekt_v2_1_1_register_form"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="RegisterForm.cs" line="17" column="19" bodyfile="RegisterForm.cs" bodystart="18" bodyend="154"/>
+    <listofallmembers>
+      <member refid="classprojekt_v2_1_1_register_form_1a3e528b8237451b058c66f43cffd94731" prot="private" virt="non-virtual"><scope>projektV2::RegisterForm</scope><name>ageBox</name></member>
+      <member refid="classprojekt_v2_1_1_register_form_1ada1d5431f8078f4a2e501536b3618d82" prot="private" virt="non-virtual"><scope>projektV2::RegisterForm</scope><name>close</name></member>
+      <member refid="classprojekt_v2_1_1_register_form_1a6c0d2ecd85ebcbf35d7dd05ab09d3b6c" prot="private" virt="non-virtual"><scope>projektV2::RegisterForm</scope><name>close_Click</name></member>
+      <member refid="classprojekt_v2_1_1_register_form_1a673637bcab16117a39b67a0e273f226c" prot="private" virt="non-virtual"><scope>projektV2::RegisterForm</scope><name>components</name></member>
+      <member refid="classprojekt_v2_1_1_register_form_1a6237ba7fc0994afb4b355b598a2a5484" prot="protected" virt="non-virtual"><scope>projektV2::RegisterForm</scope><name>Dispose</name></member>
+      <member refid="classprojekt_v2_1_1_register_form_1a47c57165b4124d3825edd051b702c7fa" prot="private" virt="non-virtual"><scope>projektV2::RegisterForm</scope><name>emailBox</name></member>
+      <member refid="classprojekt_v2_1_1_register_form_1a1ada9609ed80722d4f1fb14de14a5670" prot="private" virt="non-virtual"><scope>projektV2::RegisterForm</scope><name>haveAcc</name></member>
+      <member refid="classprojekt_v2_1_1_register_form_1a5310a414921623c5f2da41e410a63a1e" prot="private" virt="non-virtual"><scope>projektV2::RegisterForm</scope><name>haveAcc_Click</name></member>
+      <member refid="classprojekt_v2_1_1_register_form_1a8552e0b32388a9c5f215b248d4ba5c08" prot="private" virt="non-virtual"><scope>projektV2::RegisterForm</scope><name>InitializeComponent</name></member>
+      <member refid="classprojekt_v2_1_1_register_form_1a5366c02674417ab2c628a407bdcc70fa" prot="private" virt="non-virtual"><scope>projektV2::RegisterForm</scope><name>label1</name></member>
+      <member refid="classprojekt_v2_1_1_register_form_1a9b661636614c6f70fe888100ff43cc66" prot="private" virt="non-virtual"><scope>projektV2::RegisterForm</scope><name>label2</name></member>
+      <member refid="classprojekt_v2_1_1_register_form_1a28a20ae0c4131fb212e43f41e4cdeb2a" prot="private" virt="non-virtual"><scope>projektV2::RegisterForm</scope><name>label3</name></member>
+      <member refid="classprojekt_v2_1_1_register_form_1a17bc5ff32203b8e1ca94573191f57959" prot="private" virt="non-virtual"><scope>projektV2::RegisterForm</scope><name>label4</name></member>
+      <member refid="classprojekt_v2_1_1_register_form_1a4ad9907be717edc04630e3b6a89f4592" prot="private" virt="non-virtual"><scope>projektV2::RegisterForm</scope><name>label5</name></member>
+      <member refid="classprojekt_v2_1_1_register_form_1a405c99785e84a6d56266fe70e0029bf3" prot="private" virt="non-virtual"><scope>projektV2::RegisterForm</scope><name>label6</name></member>
+      <member refid="classprojekt_v2_1_1_register_form_1a67bebff69b81b127158fb591f2a8a215" prot="private" virt="non-virtual"><scope>projektV2::RegisterForm</scope><name>label7</name></member>
+      <member refid="classprojekt_v2_1_1_register_form_1add5a3056054177654d60d4dd498c3566" prot="public" virt="non-virtual"><scope>projektV2::RegisterForm</scope><name>matchAge</name></member>
+      <member refid="classprojekt_v2_1_1_register_form_1af0df04d8a706729c42983c5db81e446e" prot="private" virt="non-virtual"><scope>projektV2::RegisterForm</scope><name>matchMail</name></member>
+      <member refid="classprojekt_v2_1_1_register_form_1ab4b27080699426251852ba7d01f88225" prot="private" virt="non-virtual"><scope>projektV2::RegisterForm</scope><name>matchPass</name></member>
+      <member refid="classprojekt_v2_1_1_register_form_1acd499e316ae65954b6a4053a26529d8a" prot="public" virt="non-virtual"><scope>projektV2::RegisterForm</scope><name>matchPIN</name></member>
+      <member refid="classprojekt_v2_1_1_register_form_1a51b2c02acfecd198c2b68727fc9d376c" prot="private" virt="non-virtual"><scope>projektV2::RegisterForm</scope><name>panel1</name></member>
+      <member refid="classprojekt_v2_1_1_register_form_1a895245e45b01e1a870e2fe05a463afa2" prot="private" virt="non-virtual"><scope>projektV2::RegisterForm</scope><name>panel2</name></member>
+      <member refid="classprojekt_v2_1_1_register_form_1af48f48eae825cd151933776b931abd44" prot="private" virt="non-virtual"><scope>projektV2::RegisterForm</scope><name>panel3</name></member>
+      <member refid="classprojekt_v2_1_1_register_form_1a92b142d8486b53d8c3a1adbb759efe2b" prot="private" virt="non-virtual"><scope>projektV2::RegisterForm</scope><name>pass2Box</name></member>
+      <member refid="classprojekt_v2_1_1_register_form_1a68e88886334b23fa5009a1a2bbd3764a" prot="private" virt="non-virtual"><scope>projektV2::RegisterForm</scope><name>passBox</name></member>
+      <member refid="classprojekt_v2_1_1_register_form_1a63a55dc3890dbc502dc6d3f291353aca" prot="private" virt="non-virtual"><scope>projektV2::RegisterForm</scope><name>pinBox</name></member>
+      <member refid="classprojekt_v2_1_1_register_form_1ae7df8fd76838241100208780bb6e9de5" prot="private" virt="non-virtual"><scope>projektV2::RegisterForm</scope><name>registerButton</name></member>
+      <member refid="classprojekt_v2_1_1_register_form_1aa85d6f7d1909dbc335b2808617cb718f" prot="private" virt="non-virtual"><scope>projektV2::RegisterForm</scope><name>registerButton_Click</name></member>
+      <member refid="classprojekt_v2_1_1_register_form_1a4693f02b68921cdbb7fb2424da890cfa" prot="public" virt="non-virtual"><scope>projektV2::RegisterForm</scope><name>RegisterForm</name></member>
+      <member refid="classprojekt_v2_1_1_register_form_1a8927cf1db39399930bd80e915fe827ad" prot="private" virt="non-virtual"><scope>projektV2::RegisterForm</scope><name>RegisterForm_Load</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>
